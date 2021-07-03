@@ -1,0 +1,239 @@
+c:\users\jasper diongco\documents\visual studio 2010\Projects\OOP2_Hardware_MS\Hardware_MS\bin\Debug\Hardware_MS.exe
+c:\users\jasper diongco\documents\visual studio 2010\Projects\OOP2_Hardware_MS\Hardware_MS\bin\Debug\Hardware_MS.pdb
+c:\users\jasper diongco\documents\visual studio 2010\Projects\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.Properties.Resources.resources
+c:\users\jasper diongco\documents\visual studio 2010\Projects\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.csproj.GenerateResource.Cache
+c:\users\jasper diongco\documents\visual studio 2010\Projects\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.exe
+c:\users\jasper diongco\documents\visual studio 2010\Projects\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.pdb
+C:\Users\JASPER DIONGCO\documents\visual studio 2010\Projects\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.csprojResolveAssemblyReference.cache
+C:\Users\JASPER DIONGCO\documents\visual studio 2010\Projects\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDashboard.resources
+C:\Users\JASPER DIONGCO\documents\visual studio 2010\Projects\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmMain.resources
+C:\Users\JASPER DIONGCO\documents\visual studio 2010\Projects\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmTransaction.resources
+C:\Users\JASPER DIONGCO\documents\visual studio 2010\Projects\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmSupplier.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.exe
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.pdb
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\bin\Debug\Hardware_MS.exe
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\bin\Debug\Hardware_MS.pdb
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.csprojResolveAssemblyReference.cache
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmMain.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDashboard.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmSupplier.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmTransaction.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.Properties.Resources.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.csproj.GenerateResource.Cache
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmWait.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddEditSupplier.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewSupplier.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmInventory.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddUnit.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddItem.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddCategory.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddSupply.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewItem.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddEditDetail.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmUpdateItem.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewSupplies.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewSupply.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmUpdateSupply.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmStaffs.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmLogin.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmPrintReceipt.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\RdlCompile.cache
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\RdlCompile.compiled
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmEditCustomer.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddAttribute.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAccount.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDelivery.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmScheduleDelivery.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmReturn.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmListReturns.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddEditTruck.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmTruck.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDeliveryStatus.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDeliveryScheduling.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.exe
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.pdb
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\bin\Debug\Hardware_MS.exe
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\bin\Debug\Hardware_MS.pdb
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.csprojResolveAssemblyReference.cache
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAccount.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddAttribute.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddCategory.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddEditDetail.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddEditTruck.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddItem.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddEditSupplier.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddSupply.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddUnit.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDelivery.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDeliveryScheduling.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDeliveryStatus.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmEditCustomer.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmInventory.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmReturn.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmListReturns.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmLogin.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmMain.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDashboard.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmPrintReceipt.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmScheduleDelivery.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmStaffs.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmSupplier.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmTransaction.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmTruck.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmUpdateItem.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmUpdateSupply.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewItem.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewSupplier.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewSupplies.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewSupply.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmWait.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.Properties.Resources.resources
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.csproj.GenerateResource.Cache
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\RdlCompile.cache
+C:\Users\ReggieRainier\Downloads\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ReggieRainier\Desktop\1.2.6.9\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.exe
+C:\Users\ReggieRainier\Desktop\1.2.6.9\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.pdb
+C:\Users\ReggieRainier\Desktop\1.2.6.9\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.csprojResolveAssemblyReference.cache
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.exe
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.pdb
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\bin\Debug\Hardware_MS.exe
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\bin\Debug\Hardware_MS.pdb
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.csprojResolveAssemblyReference.cache
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAccount.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddAttribute.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddBrokenItem.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddCategory.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddEditDetail.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddEditTruck.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddItem.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddEditSupplier.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddSupply.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddUnit.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmBrokenItem.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDelivery.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDeliveryScheduling.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDeliveryStatus.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmEditCustomer.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmInventory.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmReturn.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmListReturns.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmLogin.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmMain.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDashboard.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmPrintReceipt.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmScheduleDelivery.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmStaffs.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmSupplier.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmTransaction.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmTruck.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmUpdateItem.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmUpdateSupply.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewItem.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewSupplier.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewSupplies.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewSupply.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmWait.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.Properties.Resources.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.csproj.GenerateResource.Cache
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\RdlCompile.cache
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\RdlCompile.compiled
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmPrintReturns.resources
+C:\Users\JASPER DIONGCO\Desktop\testing\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmPrintSales.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddBrokenItem.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmBrokenItem.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmPrintReturns.resources
+C:\Users\JASPER DIONGCO\Desktop\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmPrintSales.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.exe
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.pdb
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\bin\Debug\Hardware_MS.exe
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\bin\Debug\Hardware_MS.pdb
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.csprojResolveAssemblyReference.cache
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAccount.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddAttribute.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddBrokenItem.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddCategory.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddEditDetail.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddEditTruck.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddItem.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddEditSupplier.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddSupply.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddUnit.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmBrokenItem.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDelivery.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDeliveryScheduling.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDeliveryStatus.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmEditCustomer.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmInventory.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmReturn.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmListReturns.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmLogin.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmMain.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDashboard.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmPrintReceipt.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmPrintReturns.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmPrintSales.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmScheduleDelivery.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmStaffs.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmSupplier.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmTransaction.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmTruck.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmUpdateItem.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmUpdateSupply.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewItem.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewSupplier.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewSupplies.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewSupply.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmWait.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.Properties.Resources.resources
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.csproj.GenerateResource.Cache
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\RdlCompile.cache
+D:\BACKUP\Desktop\MyProjects\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\RdlCompile.compiled
+D:\BACKUP\Desktop\MyProjects (2)\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.exe
+D:\BACKUP\Desktop\MyProjects (2)\OOP2\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.pdb
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.exe
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.pdb
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\bin\Debug\Hardware_MS.exe
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\bin\Debug\Hardware_MS.pdb
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.csprojResolveAssemblyReference.cache
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAccount.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddAttribute.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddBrokenItem.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddCategory.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddEditDetail.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddEditTruck.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddItem.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddEditSupplier.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddSupply.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddUnit.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmBrokenItem.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDelivery.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDeliveryScheduling.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDeliveryStatus.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmEditCustomer.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmInventory.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmReturn.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmListReturns.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmLogin.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmMain.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDashboard.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmPrintReceipt.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmPrintReturns.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmPrintSales.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmScheduleDelivery.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmStaffs.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmSupplier.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmTransaction.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmTruck.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmUpdateItem.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmUpdateSupply.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewItem.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewSupplier.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewSupplies.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewSupply.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmWait.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.Properties.Resources.resources
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.csproj.GenerateResource.Cache
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\RdlCompile.cache
+D:\BACKUP\Desktop\MyProjects (2)\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\RdlCompile.compiled
+D:\BACKUP\Desktop\EYE\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.exe
+D:\BACKUP\Desktop\EYE\Hardware\OOP2_Hardware_MS\Hardware_MS\obj\x86\Debug\Hardware_MS.pdb

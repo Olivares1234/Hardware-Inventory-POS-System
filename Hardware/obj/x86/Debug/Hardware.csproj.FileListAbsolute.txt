@@ -1,0 +1,277 @@
+D:\BACKUP\Desktop\EYE\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.exe
+D:\BACKUP\Desktop\EYE\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.pdb
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.exe
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.pdb
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\bin\Debug\Hardware_MS.exe
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\bin\Debug\Hardware_MS.pdb
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware.csprojResolveAssemblyReference.cache
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAccount.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddAttribute.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddBrokenItem.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddCategory.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddEditDetail.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddEditTruck.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddItem.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddEditSupplier.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddSupply.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmAddUnit.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmBrokenItem.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDelivery.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDeliveryScheduling.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDeliveryStatus.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmEditCustomer.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmInventory.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmReturn.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmListReturns.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmLogin.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmMain.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmDashboard.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmPrintReceipt.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmPrintReturns.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmPrintSales.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmScheduleDelivery.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmStaffs.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmSupplier.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmTransaction.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmTruck.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmUpdateItem.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmUpdateSupply.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewItem.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewSupplier.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewSupplies.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmViewSupply.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.FrmWait.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware_MS.Properties.Resources.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\Hardware.csproj.GenerateResource.Cache
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\RdlCompile.cache
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware_MS\obj\x86\Debug\RdlCompile.compiled
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.exe
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.pdb
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\bin\Debug\Hardware_MS.exe
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\bin\Debug\Hardware_MS.pdb
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.csprojResolveAssemblyReference.cache
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAccount.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddAttribute.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddBrokenItem.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddCategory.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddEditDetail.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddEditTruck.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddItem.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddEditSupplier.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddSupply.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddUnit.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmBrokenItem.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmDelivery.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmDeliveryScheduling.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmDeliveryStatus.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmEditCustomer.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmInventory.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmReturn.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmListReturns.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmLogin.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmMain.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmDashboard.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmPrintReceipt.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmPrintReturns.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmPrintSales.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmScheduleDelivery.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmStaffs.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmSupplier.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmTransaction.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmTruck.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmUpdateItem.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmUpdateSupply.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmViewItem.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmViewSupplier.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmViewSupplies.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmViewSupply.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmWait.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.Properties.Resources.resources
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.csproj.GenerateResource.Cache
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\RdlCompile.cache
+D:\BACKUP\Desktop\Hardware\Hardware\Hardware\obj\x86\Debug\RdlCompile.compiled
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.csprojResolveAssemblyReference.cache
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.csproj.GenerateResource.Cache
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\RdlCompile.cache
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\RdlCompile.compiled
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.Properties.Resources.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\bin\Debug\Hardware.exe
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\bin\Debug\Hardware.pdb
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmAccount.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmAddAttribute.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmAddBrokenItem.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmAddCategory.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmAddEditDetail.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmAddEditTruck.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmAddItem.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmAddEditSupplier.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmAddSupply.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmAddUnit.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmBrokenItem.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmDelivery.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmDeliveryScheduling.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmDeliveryStatus.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmEditCustomer.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmInventory.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmReturn.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmListReturns.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmLogin.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmMain.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmDashboard.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmPrintReceipt.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmPrintReturns.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmPrintSales.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmScheduleDelivery.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmStaffs.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmSupplier.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmTransaction.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmTruck.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmUpdateItem.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmUpdateSupply.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmViewItem.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmViewSupplier.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmViewSupplies.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmViewSupply.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.FrmWait.resources
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.exe
+D:\BACKUP\Desktop\New folder\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.pdb
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.exe
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.pdb
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\bin\Debug\Hardware.exe
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\bin\Debug\Hardware.pdb
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAccount.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddAttribute.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddBrokenItem.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddCategory.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddEditDetail.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddEditTruck.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddItem.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddEditSupplier.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddSupply.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddUnit.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmBrokenItem.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmDelivery.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmDeliveryScheduling.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmDeliveryStatus.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmEditCustomer.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmInventory.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmReturn.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmListReturns.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmLogin.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmMain.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmDashboard.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmPrintReceipt.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmPrintReturns.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmPrintSales.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmScheduleDelivery.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmStaffs.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmSupplier.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmTransaction.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmTruck.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmUpdateItem.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmUpdateSupply.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmViewItem.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmViewSupplier.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmViewSupplies.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmViewSupply.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmWait.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.Properties.Resources.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.csproj.GenerateResource.Cache
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\RdlCompile.cache
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\RdlCompile.compiled
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmPrintBrokenItem.resources
+D:\BACKUP\Desktop\assets\Hardware\Hardware\Hardware\Hardware\obj\x86\Debug\Hardware.csprojResolveAssemblyReference.cache
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware.exe
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware.pdb
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\bin\Debug\Hardware.exe
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\bin\Debug\Hardware.pdb
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmPrintBrokenItem.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAccount.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddAttribute.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddBrokenItem.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddCategory.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddEditDetail.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddEditTruck.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddItem.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddEditSupplier.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddSupply.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddUnit.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmBrokenItem.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmDelivery.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmDeliveryScheduling.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmDeliveryStatus.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmEditCustomer.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmInventory.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmReturn.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmListReturns.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmLogin.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmMain.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmDashboard.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmPrintReceipt.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmPrintReturns.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmPrintSales.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmScheduleDelivery.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmStaffs.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmSupplier.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmTransaction.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmTruck.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmUpdateItem.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmUpdateSupply.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmViewItem.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmViewSupplier.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmViewSupplies.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmViewSupply.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmWait.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.Properties.Resources.resources
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware.csproj.GenerateResource.Cache
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\RdlCompile.cache
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\RdlCompile.compiled
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\bin\Debug\Hardware.exe.config
+D:\BACKUP\Desktop\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware.csprojResolveAssemblyReference.cache
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\bin\Debug\Hardware.exe.config
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware.exe
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware.pdb
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\bin\Debug\Hardware.exe
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\bin\Debug\Hardware.pdb
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware.csprojResolveAssemblyReference.cache
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmPrintBrokenItem.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAccount.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddAttribute.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddBrokenItem.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddCategory.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddEditDetail.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddEditTruck.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddItem.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddEditSupplier.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddSupply.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmAddUnit.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmBrokenItem.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmDelivery.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmDeliveryScheduling.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmDeliveryStatus.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmEditCustomer.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmInventory.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmReturn.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmListReturns.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmLogin.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmMain.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmDashboard.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmPrintReceipt.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmPrintReturns.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmPrintSales.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmScheduleDelivery.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmStaffs.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmSupplier.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmTransaction.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmTruck.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmUpdateItem.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmUpdateSupply.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmViewItem.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmViewSupplier.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmViewSupplies.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmViewSupply.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.FrmWait.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware_MS.Properties.Resources.resources
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\Hardware.csproj.GenerateResource.Cache
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\RdlCompile.cache
+D:\BACKUP\Desktop\All Folders\Soft Eng\Hardware\Hardware\obj\x86\Debug\RdlCompile.compiled
