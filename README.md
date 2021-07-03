@@ -1,3 +1,3 @@
 # my_Project
 
-Hello c# Project 
+c# Project Hardware POS inventory System
