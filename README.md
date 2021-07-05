@@ -6,5 +6,6 @@
 <h4>*Managing Transaction Sales</h4>
 <h4>*Managing Delivery</h4>
 <h4>*Managing Supplier</h4>
+<h4>*Managing Inventory</h4>
 <h4>*Managing Employee</h4>
 <h4>*Managing Reports</h4>
