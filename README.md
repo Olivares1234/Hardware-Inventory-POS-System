@@ -3,8 +3,8 @@
 <h3>C# Project Hardware POS inventory System</h3>
 
 <h2>Features</h2>
-<p>Managing Transaction Sales</p>
-<p>Managing Delivery</p>
-<p>Managing Supplier</p>
-<p>Managing Employee</p>
-<p>Managing Reports</p>
+<h4>*Managing Transaction Sales</h4>
+<h4>*Managing Delivery</h4>
+<h4>*Managing Supplier</h4>
+<h4>*Managing Employee</h4>
+<h4>*Managing Reports</h4>
