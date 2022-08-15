@@ -1,6 +1,6 @@
 <p align="center"><img src="https://www.learncsharptutorial.com/images/share1.png" width="400"></p>
 
-<h2>C# is a simple, modern, general-purpose, object-oriented programming language developed by Microsoft within its .NET initiative led by Anders Hejlsberg. This tutorial will teach you basic C# programming and will also take you through various advanced concepts related to C# programming language.
+<h3>C# is a simple, modern, general-purpose, object-oriented programming language developed by Microsoft within its .NET initiative led by Anders Hejlsberg. This tutorial will teach you basic C# programming and will also take you through various advanced concepts related to C# programming language.
 
 Audience
 This tutorial has been prepared for the beginners to help them understand basic C# programming.
