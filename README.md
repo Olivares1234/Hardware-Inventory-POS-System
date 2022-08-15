@@ -1,4 +1,4 @@
-# my_Project
+<p align="center"><img src="https://www.learncsharptutorial.com/images/share1.png" width="400"></p>
 
 <h3>C# Project Hardware POS inventory System</h3>
 
