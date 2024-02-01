@@ -1,3 +1,6 @@
+
+![pos-inventory](https://github.com/Olivares1234/Hardware-Inventory-POS-System/assets/83743108/fe02619a-25df-4c38-9fa2-5bc56e3115c8)
+
 <p align="center"><img src="https://www.learncsharptutorial.com/images/share1.png" width="400"></p>
 
 <h3>C# is a simple, modern, general-purpose, object-oriented programming language developed by Microsoft within its .NET initiative led by Anders Hejlsberg. This tutorial will teach you basic C# programming and will also take you through various advanced concepts related to C# programming language.
