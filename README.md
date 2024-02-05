@@ -1,5 +1,7 @@
 <p align="center"><img src="https://miro.medium.com/v2/resize:fit:1400/1*_NVBTVdmjt3Qvq3CZOySXg.png" width="400"></p>
 
+![pos-inventory](https://github.com/Olivares1234/Hardware-Inventory-POS-System/assets/83743108/fe02619a-25df-4c38-9fa2-5bc56e3115c8)
+
 The Hardware Inventory with POS System is a comprehensive and feature-rich solution developed in C# designed to facilitate the efficient management of hardware inventory. This integrated system seamlessly incorporates a Point of Sale (POS) module, enhancing the overall functionality. The software enables precise tracking of inventory levels, streamlining sales processes, and generating detailed receipts. In addition to these core functionalities, the system also includes robust features for transaction delivery and supplier management, providing a holistic solution for businesses.
 
 -Inventory Tracking:
@@ -17,7 +19,7 @@ This feature enables businesses to manage the delivery aspects of their transact
 -Supplier Management System:
 The hardware inventory system includes a robust supplier management feature, allowing businesses to maintain a well-organized and updated list of suppliers. Users can track supplier details, manage relationships, and monitor order histories. This feature facilitates efficient communication with suppliers, ensures timely restocking of inventory, and provides insights into supplier performance for better decision-making.
 
-![pos-inventory](https://github.com/Olivares1234/Hardware-Inventory-POS-System/assets/83743108/fe02619a-25df-4c38-9fa2-5bc56e3115c8)
+
 
 
 
